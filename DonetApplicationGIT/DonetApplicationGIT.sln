@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "..\WebAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "..\WebApplication3\WebApplication3.csproj", "{B7F55985-C84A-43E3-A598-4D1D1B38B567}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontnetWebAPI", "..\DontnetWebAPI\DontnetWebAPI.csproj", "{42A3C7D7-D4AE-4F13-A8DC-3F98EC4FAA6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{B7F55985-C84A-43E3-A598-4D1D1B38B567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7F55985-C84A-43E3-A598-4D1D1B38B567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7F55985-C84A-43E3-A598-4D1D1B38B567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A3C7D7-D4AE-4F13-A8DC-3F98EC4FAA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A3C7D7-D4AE-4F13-A8DC-3F98EC4FAA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A3C7D7-D4AE-4F13-A8DC-3F98EC4FAA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A3C7D7-D4AE-4F13-A8DC-3F98EC4FAA6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

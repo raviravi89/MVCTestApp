@@ -75,6 +75,7 @@ D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\Scripts\jquer
 D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\Scripts\jquery.validate.unobtrusive.js
 D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\Scripts\jquery.validate.unobtrusive.min.js
 D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\Scripts\modernizr-2.8.3.js
+D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\Views\Web.config
 D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\Views\_ViewStart.cshtml
 D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\Views\Shared\Error.cshtml
 D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\Views\Shared\_Layout.cshtml
@@ -130,5 +131,4 @@ D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\bin\roslyn\vb
 D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\bin\roslyn\vbc.rsp
 D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\bin\roslyn\VBCSCompiler.exe
 D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\bin\roslyn\VBCSCompiler.exe.config
-D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\Views\Web.config
 D:\DotnetMVCGIT\DonetApplicationGIT\obj\Release\Package\PackageTmp\Web.config
